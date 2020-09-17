@@ -1,0 +1,12 @@
+{
+  "ip_address": "127.0.0.1",
+  "port": 6666,
+  "dbhost": "srv1.zerotrust.lan",
+  "dbuser": "zerotrust",
+  "dbpass": "zerotrust",
+  "dbname": "zerotrust",
+  "secret": "BlaBlaBla",
+  "userchain_name": "USERCHAINS",
+  "tokenlifetime": 300,
+  "doiptables": true
+}

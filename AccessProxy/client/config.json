@@ -1,0 +1,6 @@
+{
+  "ip_address": "127.0.0.1",
+  "port": 6666,
+  "secret": "BlaBlaBla",
+  "reauth": 3600
+}

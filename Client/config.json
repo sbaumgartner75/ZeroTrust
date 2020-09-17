@@ -1,0 +1,8 @@
+{
+  "inventory": "https://inventory.zerotrust.lan",
+  "certificate": "./client1.zerotrust.lan.crt",
+  "privatekey": "./client1.zerotrust.lan.key",
+  "ca": "./ZeroTrust-CA.crt",
+  "accessproxy": "accessproxy.zerotrust.lan",
+  "port": 1080
+}
